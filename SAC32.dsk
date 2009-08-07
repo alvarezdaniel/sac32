@@ -1,0 +1,353 @@
+[Closed Files]
+File_0=SourceModule,'C:\Mis documentos\Proyectos Delphi\Software\Serkey.pas',0,1,130,10,137,0,0
+File_1=SourceModule,'C:\Mis documentos\Proyectos Delphi\Software\HabTest.pas',0,1,1,45,11,1,0
+File_2=SourceModule,'C:\Mis documentos\Proyectos Delphi\Software\Progreso.pas',0,1,1,40,6,1,0
+File_3=SourceModule,'c:\archivos de programa\asyncpro\AwUser.pas',0,1,5152,1,5161,0,0
+File_4=SourceModule,'c:\archivos de programa\asyncpro\AdPort.pas',0,1,787,1,803,0,0
+File_5=SourceModule,'C:\Mis documentos\Proyectos Delphi\Software\Franjas.pas',0,1,1060,6,1060,1,0
+File_6=SourceModule,'C:\Mis documentos\Proyectos Delphi\Software\Seguridad.pas',0,1,560,9,565,1,0
+File_7=SourceModule,'c:\archivos de programa\asyncpro\AdExcept.pas',0,1,367,1,383,0,0
+
+[Modules]
+Module0=C:\Mis documentos\Proyectos Delphi\Software\Colores.pas
+Module1=C:\Mis documentos\Proyectos Delphi\Software\Principal.pas
+Module2=C:\Mis documentos\Proyectos Delphi\Software\Comunicaciones.pas
+Module3=C:\Mis documentos\Proyectos Delphi\Software\Login.pas
+Module4=C:\Mis documentos\Proyectos Delphi\Software\ABM.pas
+Module5=C:\Mis documentos\Proyectos Delphi\Software\Datos.pas
+Module6=C:\Mis documentos\Proyectos Delphi\Software\ConfigPC.pas
+Module7=C:\Mis documentos\Proyectos Delphi\Software\ConfigNodo.pas
+Module8=C:\Mis documentos\Proyectos Delphi\Software\Rutinas.pas
+Module9=C:\Mis documentos\Proyectos Delphi\Software\SAC32.dpr
+Module10=C:\Mis documentos\Proyectos Delphi\Software\Reportes.pas
+Count=11
+EditWindowCount=1
+
+[C:\Mis documentos\Proyectos Delphi\Software\Colores.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Mis documentos\Proyectos Delphi\Software\Principal.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Mis documentos\Proyectos Delphi\Software\Comunicaciones.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Mis documentos\Proyectos Delphi\Software\Login.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Mis documentos\Proyectos Delphi\Software\ABM.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Mis documentos\Proyectos Delphi\Software\Datos.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Mis documentos\Proyectos Delphi\Software\ConfigPC.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Mis documentos\Proyectos Delphi\Software\ConfigNodo.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Mis documentos\Proyectos Delphi\Software\Rutinas.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Mis documentos\Proyectos Delphi\Software\SAC32.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+SymbolFile=C:\Mis documentos\Proyectos Delphi\Software\SAC32.dsm
+ModSinceCompile=0
+
+[C:\Mis documentos\Proyectos Delphi\Software\Reportes.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Archivos de programa\Borland\Delphi5\Bin\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=11
+CurrentView=9
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+View5=5
+View6=6
+View7=7
+View8=8
+View9=9
+View10=10
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=216
+Top=105
+Width=804
+Height=660
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=796
+ClientHeight=633
+LeftPanelSize=0
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=00000400010000000C000000436F64654578706C6F7265720000000000000000000000000000000000FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=0
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=00000400010000000B0000004D657373616765566965770000000000000000000000000000000000FFFFFFFF
+
+[View0]
+Module=C:\Mis documentos\Proyectos Delphi\Software\SAC32.dpr
+CursorX=34
+CursorY=17
+TopLine=1
+LeftCol=1
+
+[View1]
+Module=C:\Mis documentos\Proyectos Delphi\Software\Comunicaciones.pas
+CursorX=29
+CursorY=2324
+TopLine=2307
+LeftCol=1
+
+[View2]
+Module=C:\Mis documentos\Proyectos Delphi\Software\ABM.pas
+CursorX=7
+CursorY=785
+TopLine=769
+LeftCol=1
+
+[View3]
+Module=C:\Mis documentos\Proyectos Delphi\Software\Login.pas
+CursorX=6
+CursorY=108
+TopLine=98
+LeftCol=1
+
+[View4]
+Module=C:\Mis documentos\Proyectos Delphi\Software\Rutinas.pas
+CursorX=42
+CursorY=1099
+TopLine=1086
+LeftCol=1
+
+[View5]
+Module=C:\Mis documentos\Proyectos Delphi\Software\Reportes.pas
+CursorX=5
+CursorY=1812
+TopLine=1794
+LeftCol=1
+
+[View6]
+Module=C:\Mis documentos\Proyectos Delphi\Software\Datos.pas
+CursorX=22
+CursorY=321
+TopLine=302
+LeftCol=1
+
+[View7]
+Module=C:\Mis documentos\Proyectos Delphi\Software\ConfigNodo.pas
+CursorX=1
+CursorY=648
+TopLine=618
+LeftCol=1
+
+[View8]
+Module=C:\Mis documentos\Proyectos Delphi\Software\Principal.pas
+CursorX=26
+CursorY=703
+TopLine=677
+LeftCol=1
+
+[View9]
+Module=C:\Mis documentos\Proyectos Delphi\Software\Colores.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View10]
+Module=C:\Mis documentos\Proyectos Delphi\Software\ConfigPC.pas
+CursorX=1
+CursorY=714
+TopLine=707
+LeftCol=1
+
+[Watches]
+Count=5
+Watch0='hab_viejos.Count',256,0,18,1,0
+Watch1='hab_nuevos.Count',256,0,18,1,0
+Watch2='i',256,0,18,1,0
+Watch3='hab_viejos[7]',256,0,18,1,0
+Watch4='qryAux.RecordCount',256,0,18,1,0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=2
+Left=0
+Top=1
+Width=987
+Height=105
+MaxLeft=-4
+MaxTop=-4
+MaxWidth=1032
+MaxHeight=105
+ClientWidth=1024
+ClientHeight=78
+
+[ProjectManager]
+Create=1
+Visible=1
+State=0
+Left=430
+Top=104
+Width=452
+Height=618
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=444
+ClientHeight=594
+TBDockHeight=404
+LRDockWidth=336
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=113
+Width=156
+Height=82
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=104
+Width=216
+Height=655
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=206
+ClientHeight=629
+TBDockHeight=608
+LRDockWidth=190
+Dockable=1
+SplitPos=97
+ArrangeBy=Name
+SelectedItem=Action
+ExpandedItems=Options
+HiddenCategories=
+ShowStatusBar=1
+
+[WatchWindow]
+Create=1
+Visible=1
+State=0
+Left=301
+Top=309
+Width=421
+Height=149
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=413
+ClientHeight=125
+TBDockHeight=149
+LRDockWidth=421
+Dockable=1
+
+[ToDo List]
+Create=1
+Visible=0
+State=0
+Left=277
+Top=259
+Width=470
+Height=250
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=462
+ClientHeight=226
+TBDockHeight=250
+LRDockWidth=470
+Dockable=1
+Column0Width=200
+Column1Width=30
+Column2Width=100
+Column3Width=70
+Column4Width=70
+SortOrder=4
+ShowHints=1
+ShowChecked=1
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=0
+Top=12
+Width=140
+Height=603
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=603
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=12
+Top=0
+Width=784
+Height=52
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=784
+ClientHeight=52
+TBDockHeight=52
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+

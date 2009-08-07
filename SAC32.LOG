@@ -1,0 +1,27 @@
+APRO v2.56
+Compiler : Unknown
+Operating System : Windows NT 5.0 Service Pack 2
+Time      Type      SubType       Data      OtherData
+--------  --------  ------------  --------  ---------
+0000.010  TrDatChg  Avail         00000001  
+0000.010  TrgHdAlc  Window        002F02F8  
+0009.353  Dispatch  WriteCom      00000001  [07]
+0009.363  Dispatch  WriteCom      00000001  [08]
+0009.373  Dispatch  WriteCom      00000001  [00]
+0009.383  Dispatch  WriteCom      00000001  [00]
+0009.393  Dispatch  WriteCom      00000001  [00]
+0009.403  Dispatch  WriteCom      00000001  [00]
+0009.413  Dispatch  WriteCom      00000001  [00]
+0009.423  Dispatch  WriteCom      00000001  [00]
+0009.433  Dispatch  WriteCom      00000001  [00]
+0009.443  Dispatch  WriteCom      00000001  [00]
+0009.453  Dispatch  WriteCom      00000001  [00]
+0009.463  Dispatch  WriteCom      00000001  [00]
+0009.473  Dispatch  WriteCom      00000001  [00]
+0009.483  Dispatch  WriteCom      00000001  [00]
+0009.493  Dispatch  WriteCom      00000001  [00]
+0009.503  Dispatch  WriteCom      00000001  [0F]
+0009.523  Dispatch  ReadCom       00000008  [87][08][00][00][00][00][03][00]
+0009.523  Trigger   Avail         00000008  
+0009.523  Dispatch  ReadCom       00000008  [20][01][00][00][00][00][00][AD]
+0009.523  Trigger   Avail         00000010  

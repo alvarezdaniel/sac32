@@ -1,0 +1,29 @@
+
+1 VERSIONINFO
+FILEVERSION 1,5,1,295
+PRODUCTVERSION 1,5,1,295
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "0C0A04E4"
+	{
+		VALUE "CompanyName", "Desarrollos Digitales"
+		VALUE "FileDescription", "Sistema Administrador de Controles de Acceso"
+		VALUE "FileVersion", "1.5.1.295"
+		VALUE "InternalName", "SAC32"
+		VALUE "LegalCopyright", "Copyright Desarrollos Digitales © 2000-2001"
+		VALUE "LegalTrademarks", "SAC32 ®"
+		VALUE "OriginalFilename", "SAC32"
+		VALUE "ProductName", "SAC32"
+		VALUE "ProductVersion", "1.0.0.0"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0C0A 0x04E4
+}
+}
+

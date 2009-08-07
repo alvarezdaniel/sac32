@@ -1,0 +1,72 @@
+:BASE Sac32.hlp
+1 Introducción
+2 Características=Características@Sac32.hlp
+2 Requerimientos=Requerimientos@Sac32.hlp
+2 Compatibilidad Año 2000=CompatibilidadAño2000@Sac32.hlp
+2 Instalación=Instalación@Sac32.hlp
+1 Uso del Sistema
+2 Inicio=Inicio@Sac32.hlp
+2 Ventana Principal=VentanaPrincipal@Sac32.hlp
+2 Funciones del Programa
+3 Barra de Funciones=BarradeFunciones@Sac32.hlp
+3 ABM y Asignaciones
+4 Ventana de ABM y Asignaciones=ABMyAsignaciones@Sac32.hlp
+4 ABM de Grupos de Personas=ABMdeGruposdePersonas@Sac32.hlp
+4 ABM de Personas=ABMdePersonas@Sac32.hlp
+4 ABM de Nodos=ABMdeNodos@Sac32.hlp
+4 ABM de Asignaciones=ABMdeAsignaciones@Sac32.hlp
+4 ABM de Franjas Horarias=ABMdeFranjasHorarias@Sac32.hlp
+4 ABM de Feriados=ABMdeFeriados@Sac32.hlp
+3 Configuración
+4 Ventana de Configuración=Configuracion@Sac32.hlp
+4 Comunicaciones=Comunicaciones@Sac32.hlp
+4 Descarga de Eventos=DescargadeEventos@Sac32.hlp
+4 Ubicación de Datos=UbicacióndeDatos@Sac32.hlp
+4 Opciones de Modem=OpcionesdeModem@Sac32.hlp
+4 Opciones de Entorno=OpcionesdeEntorno@Sac32.hlp
+4 Sonidos=Sonidos@Sac32.hlp
+3 Reportes
+4 Ventana de Reportes=Reportes@Sac32.hlp
+4 Reportes de Personas=ReportesdePersonas@Sac32.hlp
+4 Reportes de Nodos=ReportesdeNodos@Sac32.hlp
+4 Reportes de Asignaciones=ReportesdeAsignaciones@Sac32.hlp
+4 Reportes de Eventos=ReportesdeEventos@Sac32.hlp
+4 Opciones del Reporte=OpcionesdelReporte@Sac32.hlp
+3 Seguridad
+4 Ventana de Seguridad=Seguridad@Sac32.hlp
+4 Creación de usuario nuevo=Creacióndeusuarionuevo@Sac32.hlp
+4 Eliminación de usuario=Eliminacióndeusuario@Sac32.hlp
+4 Modificación de usuario=Modificacióndeusuario@Sac32.hlp
+4 Cambio de claves=Cambiodeclaves@Sac32.hlp
+4 Copiado de opciones=Copiadodeopciones@Sac32.hlp
+4 Funciones permitidas=Funcionespermitidas@Sac32.hlp
+2 Localizador=Localizador@Sac32.hlp
+3 Mantenimiento
+4 Ventana de Mantenimiento=Mantenimiento@Sac32.hlp
+4 Verificación de tabla=Verificacióndetabla@Sac32.hlp
+4 Reparación de tabla=Reparacióndetabla@Sac32.hlp
+4 Reindexación de tabla=Reindexacióndetabla@Sac32.hlp
+4 Compactación de tabla=Compactacióndetabla@Sac32.hlp
+4 Regeneración de tabla=Regeneracióndetabla@Sac32.hlp
+4 Verificación de huérfanos=Verificacióndehuérfanos@Sac32.hlp
+4 Depuración por fechas=Depuraciónporfechas@Sac32.hlp
+4 Filtro por eventos=Filtroporeventos@Sac32.hlp
+4 Backup de datos=Backupdedatos@Sac32.hlp
+4 Exportación de datos=Exportacióndedatos@Sac32.hlp
+4 Generación de tablas del sistema=Generacióndetablasdelsistema@Sac32.hlp
+2 Ayuda=Ayuda@Sac32.hlp
+2 Comandos a los Nodos
+3 Barra de Comandos=BarradeComandos@Sac32.hlp
+3 Selección de nodos=Selecciondenodos@Sac32.hlp
+3 Apertura Remota=AperturaRemota@Sac32.hlp
+3 Subir Habilitados=SubirHabilitados@Sac32.hlp
+3 Bajar Eventos=BajarEventos@Sac32.hlp
+3 Propiedades del Nodo=OpcionesdelNodo@Sac32.hlp
+3 Descripción de Opciones=PropiedadesdelNodo@Sac32.hlp
+3 Chequeo del Nodo=ConsultarEstado@Sac32.hlp
+3 Reinicializar Nodo=ReinicializarNodo@Sac32.hlp
+3 Bloquear Nodo=BloquearNodo@Sac32.hlp
+3 Atender Alarma=AtenderAlarma@Sac32.hlp
+1 Estructura de Nodos=EstructuradeNodos@Sac32.hlp
+2 Eventos en línea=Eventosenlínea@Sac32.hlp
+2 Imagen de eventos=Imagendelevento@Sac32.hlp
